@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120948996249",
+    "project_id": "fitmirror-58747",
+    "storage_bucket": "fitmirror-58747.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120948996249:android:b48ce0b13e5dbfd6d62008",
+        "android_client_info": {
+          "package_name": "com.example.fitmirror"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120948996249-9ts3pguu1iuj7fgvptp0ps8hvgvs5bb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3iVLXOUhtxRAlNpCEENoTbq93ixULOO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120948996249-9ts3pguu1iuj7fgvptp0ps8hvgvs5bb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
